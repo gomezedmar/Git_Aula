@@ -21,4 +21,4 @@ Navigation
     Input Text    full-name    ${USER}
     Input Text    email    ${EMAIL}
     Input Password    password    ${PASSWORD}
-    Click Button    submit_button
+    Click Button    submit_buttons
