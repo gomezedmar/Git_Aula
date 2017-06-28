@@ -1,0 +1,24 @@
+
+    {
+        "customerReadOutput": {
+            "customerId": "<a href='#'>CUST1003300001</a>",
+            "identity": {
+                "firstName": "John",
+                "lastName": "Kennedy"
+            },
+            "status": "a",
+            "customerGroup": {
+                "customerGroupDescription": "test group"
+            },
+            "language": {
+                "languageDescription": "en-US"
+            },
+            "customerAddress": {
+                "street": "Yellow Avenue",
+                "streetNo": "1000",
+                "zip": "012345",
+                "city": "Washington",
+                "emailAddress": "jkennedy@email.com"
+            }
+        }
+    }
